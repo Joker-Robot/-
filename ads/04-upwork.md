@@ -4,7 +4,7 @@ Post from: https://www.upwork.com/jobs/new
 
 ## Job title
 
-Saudi Female Voice Over for Medical Clinic IVR (Arabic)
+Saudi Female Voice Over for IVR / Auto-Attendant (Arabic)
 
 ## Category
 
@@ -12,13 +12,11 @@ Voice Talent / Audio Production
 
 ## English description (primary — Upwork indexes English better)
 
-We need a **native Saudi female voice talent** to record IVR prompts for a medical complex in Saudi Arabia.
+We need a **native Saudi female voice talent** to record IVR prompts for a company phone system in Saudi Arabia.
 
 **Voice:** Warm, clear, professional reception tone. White Saudi dialect (saudi bayda / light Najdi), not heavy slang and not formal Classical Arabic.
 
-**Scope:** About 90 short prompts (welcome, menus, departments, hold, after-hours, errors). Roughly 8–12 minutes of net speech. Script is ready and will be shared after hire.
-
-**Do not record prices** — they change monthly.
+**Scope:** About 40 short prompts (welcome, menus, hold, after-hours, errors). Roughly 4–7 minutes of net speech. Script will be shared after hire.
 
 **Delivery (required):**
 
@@ -30,17 +28,17 @@ We need a **native Saudi female voice talent** to record IVR prompts for a medic
 - 2 revision rounds included
 - Full commercial buyout for IVR / phone system use
 
-**To apply:** Attach a Saudi white-dialect sample (medical/service IVR preferred) and confirm you can deliver 8 kHz mono WAV. Candidates may be asked to record a 4-line paid/unpaid audition before award.
+**To apply:** Attach a Saudi white-dialect sample (IVR or service content preferred) and confirm you can deliver 8 kHz mono WAV. Candidates may be asked to record a 4-line audition before award.
 
-**Budget:** USD 350–700 (fixed price)
+**Budget:** USD 180–450 (fixed price)
 **Timeline:** 5–7 days after script handover
 
 ## Arabic version (paste at the bottom of the Upwork post)
 
-نبحث عن معلّقة صوت سعودية لتسجيل رد آلي لمجمع طبي.
+نبحث عن معلّقة صوت سعودية لتسجيل رد آلي IVR.
 لهجة سعودية بيضاء، نبرة استقبال دافئة ومهنية.
-حوالي 90 جملة، تسليم WAV مونو (نسخة أصلية + 8 كيلو هرتز).
-حقوق استخدام تجاري للسنترال مشمولة. السكربت جاهز بعد الترسية.
+حوالي 40 جملة، تسليم WAV مونو (نسخة أصلية + 8 كيلو هرتز).
+حقوق استخدام تجاري للسنترال مشمولة. السكربت بعد الترسية.
 
 ## Skills to add
 
